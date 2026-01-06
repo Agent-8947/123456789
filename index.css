@@ -1,7 +1,0 @@
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root { --dna-unit: 16px; }
-body { margin: 0; background-color: #000; color: #fff; overflow-x: hidden; font-family: sans-serif; }
